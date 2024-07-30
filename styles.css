@@ -175,3 +175,34 @@ section.agenda .flex{
     line-height: 50px;
 
 }
+
+section.sobre{
+    background: #3b3939;
+    box-shadow: 0 0 15px #3d3d3d;
+    padding: 40px 4%;
+    text-align: justify;
+    color: #ffffff;
+}
+section.sobre .flex{
+    gap: 70px;
+    align-items: center;
+    }
+section.sobre img{
+    width: 350px;
+    border-radius: 20%;
+    margin-top: 8%;    
+}
+section.sobre h3{
+    font-size: 60px;
+    color: #ffffff;
+    font-weight: 800;
+    line-height: 60px;
+}
+section.sobre h3 span{
+    color: #fa7528;
+}
+
+section.sobre p {
+    text-align: justify;
+    font-size:16px ;
+    }
