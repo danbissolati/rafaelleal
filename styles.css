@@ -133,6 +133,7 @@ section.agenda{
 }
 section.agenda .flex{
     gap: 40px;
+    padding: 42px 4%;
 }
 
 .agenda .show-box a{
@@ -140,9 +141,9 @@ section.agenda .flex{
     text-decoration: none;
 }
 .agenda .show-box{
-    margin: 40px 4%;
+    padding: 30px 4%;
     color: #fff;
-    padding: 40px;
+    margin-top: 40px;
     border-radius: 20px;
     transition: 0.3s;
     text-align: center;
@@ -177,8 +178,6 @@ section.agenda .flex{
 }
 
 section.sobre{
-    background: #3b3939;
-    box-shadow: 0 0 15px #3d3d3d;
     padding: 40px 4%;
     text-align: justify;
     color: #ffffff;
