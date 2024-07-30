@@ -4,6 +4,10 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 }
+html {
+    scroll-behavior: smooth;
+  }
+
 h2.titulo{
     color: #fff;
     font-size: 38px;
@@ -47,6 +51,7 @@ body {
 /* --- Estilo Header --- */  
 header{
     padding: 40px 4%;
+            
 }
 
 header > .interface{
